@@ -1,0 +1,5 @@
+/backup
+package-lock.json
+/node_modules
+.xml
+.env

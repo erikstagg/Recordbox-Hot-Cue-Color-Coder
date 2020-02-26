@@ -1,0 +1,15 @@
+{
+  "name": "rekordbox-xml-editor",
+  "version": "1.0.0",
+  "description": "rekordbox batch utility",
+  "main": "rekordbox-xml-editor.js",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Stagg",
+  "license": "ISC"
+}
